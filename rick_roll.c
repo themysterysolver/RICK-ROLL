@@ -14,6 +14,7 @@ int main(){
     while(fgets(buffer,MAX,fp)){
         if(count==0){
             printf("\033[H\033[J");
+            fflush(stdin);
         }
         count++;
         printf("%s",buffer);
