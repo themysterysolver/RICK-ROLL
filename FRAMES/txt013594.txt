@@ -1,0 +1,37 @@
+11tttt11t,..............,::,,i1ti:,............,1t1111111tttffttttffLf
+11tttttt1,...............:,:,,,,,:..............,tt111111tttffftttffff
+11tttttt1................,,,,,,,,:..............:t11111111ttffttttffLL
+11tttttti............... .:,,,,,:,..............:1111111111tttttttffLL
+11tttttt,............. .:,,,,,,:::..............:111tt11tt111ttt1tfffL
+11ttttt1,..............:,i,,i,::::..............:1ttt1111tt11tff1tffff
+11ttttt,..............:,,,,,i:::::..............,1111111111111tt11tttt
+1tttttt:..............:,,,::,:::::..............,t1111111111111t11tttt
+1ttttt1,........... .,,:,...,:::::..............,11i,,i111tttt1111tttt
+11tttt,............,..... ...,::::...............:i,:,,i1ttttt11111ttt
+111111,............,.........,::::,..............,:::,ii1tt11111111111
+111111,............ .........,,,::,..............::::,i11tt11111111111
+1111111:.......  .............,,:,,..............,::::i111t11111111111
+11111111:....,,,,.............,:::,,..................,1t1111111111111
+111111111iiii11t, .............,:,..,........       ..:1tttttt11111111
+[2J[HtfffffttffffffLLffffttt1ttttttt1tffffffffffttttttt11111tfffffffLffttff
+fttfffttfffffffffttfftttttt11ttt1ttfffffftttttt11tt111111ttffffLLLfttf
+LfttttffLLLfftttttfLftttttttfffft1ttfffffttffftt11t111tt111ttfffLLfttt
+LLffttfLLLfttfffftfLfttttttffffffttttffttffffffftt1111tftt111ttffLLftt
+LLLLfttfttttfLLffftfftttttfftffffffftttfffffffffftt111tft1tttttttfLLft
+LLLfttttffffffffftfftttttt1iii::,i1ttttfffffffffftt1111t11tttttttttttt
+LLLfftfftfLfttfffLLLfttt11:,::,,,,,:,1tttttfffffftt1111tft1ttt1tffttt1
+LLfftfLLftttfLLffLLLffttt1,:,,,,,,,,,,ttt11tfffft111111ffft1tt11ttttt1
+fttttfffffttLLLLfLLLftttt1iiiiiiii,:,,iftt111ttt11tt111tffttfftt11tfft
+ttttttttttttfLLLffLLfttt1i,iii1111i:,:1ftfft11ttt111111tfftffffttttttt
+ffffffffttffttfLfffLfttt1,,,i,iii1i:,,tffttt1tffft11111tfttfffttt11ttt
+fffffffftffftttfffffttt11,,,ii,,iii::1fft11tttttfttt111tt1tffttffttfff
+fffffffttttttttttfffttt1i,,iiiii11i,itt111tfft1tttt111111t1ttttfftttff
+fffffftt1ttt111ttfffttt1i,,iiiiiiiii1111ttfffft11t11111tffttttttt11ttf
+fttttt1ttfft1111ttffttt1i,,,iiii,,,1t11tffffffft1111111ttttt1ttfft11tt
+tttt11tfffftttt11tfftt111,,iiiii,,,1111ttftfffft11t1111tttt1tt1tffttt1
+ftfftttffftttfft11tft1i1i,,,,iii,,,111111tttft111tt1111ttt11tf1tffffft
+ftttt11tfftttfttt11i,,,1,,,,,iiii,i1t11t111t11111tt1111tt111tft1ffffft
+fttt1111tftttti,:,,...:1i,,,,iiii1i:,i1ttt111tt11111111111t11tt1tffft1
+tt11ttt111i,:,,.......:11ii,,ii,11i,.,,:,11tt11tt11t1111111111t1tffttt
+111ttttt1:............:1111iiii1ti,,,....,,,i1tttt11111111tttt111ttfLf
+111ttt1t,...............,:,,i1tt1,,..........,itttt111111tttttttttffLf
