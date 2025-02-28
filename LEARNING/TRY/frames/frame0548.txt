@@ -1,20 +1,20 @@
-           cxxxcONXNKlKNXNOdNNNNklxOOxl; :xkKkxkxOX0xxxONXOo::x0NNKkxO          
-           xNXkc0NNNXoXNNN0dNNNNkoXNNXo; c0NNNKoKNNNNd0NNNNO:c0NNNNXxO          
-           ONXNoONXNKoXNNN0oXXXXkxNNNNx; cXNNNXoKNNNNx0NNNN0:cONNNNKod          
-           ONXXcokldxckxokxckdlkodNNNNx; cKNNNXl0NNNNdONNNN0:cONNNNXod          
-           OXXXcloooocddddocddddloNNNNk; cKNNNXl0NNNNxkWNNN0:ckNNNNXlc          
-           kKK0::x0kc,ckKkc;oKXkclXXXXx: ckKKK0lkK000od0000x::d0000kcl          
-           okxx;cxdxd;oxxxo:dkkkockkkko; :oxxkxccoxkxllxxxxd::lkkxxxcc          
-           lddd;:dooo;loodo:ododl:dddxo; ;oxxxdclxkxxlcdddxo::cddxkdc:          
-           oocc,;occc;clclc;cllllldoxxo: :ldodo;cxd:colooodo::cooxkxc;          
-           ll::,;c:::;c::::;cccllc:coxo: :loll,.,o,..,::olol::lloxdxl;          
-           :c;;';::::;:;;,;;:cccc'..,dd; ;co;....:'..',:llol:::;;;:c:;          
-           ;:;;',;;;;,:;;;;;::::c,...ll, ;:c:;;..,..''cccccc::,'',,,;,          
-           .''''',,,,,,,,;;;;;;;c,...;:' ,::::;..','..,::;;::::'''''l;          
-           :lclllloloooooodddddod;...'lc lddddd,.'cl,:cldxxxxol;''',oo          
-           dOkkkOOOOOOOOOOOOOOOOOc.;c.;o okkkkkddodkk0kdkOOOkxo,,:,,dd          
-           dOkkkOOOOOOOOOOOOOOOO0d.lO:.: oxkxxxxkOookKkxkkkxxxo,:l,,xo          
-           dkkkkOOOOOOOOOOOOOOOOOk':Oo:' cdxxxxxlklcoKkoxkxcxxl,co,'dl          
-           okkkkkkkkOOOOOOOOOOOOkxl:kddc :odxxdkldoc:0Odxxd:xx:;oo:;dl          
-           okxxxloxxxxxxxxxkkkkkx:doxxdx llodddklloo:OKxxxo:xo:oddlldl          
-           oxxxxclxxxxxxkkkkkkkkd:dokkkk dlxkkxxocxkcxKkkkocklcxkxdlxo          
+            ... ..... .................   ..................  ........          
+           .... .......................   ..................  ........          
+           ............................   ..................  ........          
+           .... ..... ..... .. ........   ..................  ........          
+           .... ..... ..... .... ......   ..................  .......           
+           ....  ...   ...  .... ......   ..... ............  ......            
+           ....  .... ..... ..... .....   .....  ....  .....  ......            
+           ....  ....  .... ..... .....   ..... ...... .....   .....            
+           ..    .                .....   .....  ..  .......   .....            
+                                    ...    .     .      ....  . ....            
+                                     ..    .            ....                    
+                                      .                                         
+                                                                    .           
+                .................         .....        ........     ..          
+           ......................      . ......................     ..          
+           ....................... ..    ......................  .  ..          
+           .......................  ..    ......... ....... ..   .  ..          
+           ........................ ...   ...... ..  ...... ..  ..  .           
+           ...................... ...... ........ .. ...... .. ......           
+           .....  ............... ...... ........ .. ...... .. .... ..          

@@ -1,20 +1,20 @@
-           ;lc::lcld:ll::oc,..',,'..,... ........',;;,,,;,,,,,,,;;'''.          
-           :c::;:cdd:;c::c,..'''....'''' ,:cccc:;clc;,,,;,,,,,,;::,,'.          
-           ;:c:::;clc;:ll,.........',:lo ddkkxxxdxxd:,;,,,,,,;;;cc;;,.          
-           :lool:;::c:;:l'.........;cloo ddddxxxxxxdo;,,,,,,,;;;:cc;;'          
-           :kdolccc::cccl'.......',:clll oooolloooocc,''',,,;,,,;;::,'          
-           :xkoccllc:clod,........',,,,; ;,......;,.....',,,;,,,,,,;;,          
-           cxxo:cc:ccc:cl'..........,;:c ;.......ll''...,,,,,,,,,;,,;,          
-           lkdlcc::coc::l,.,;:;'..,;:::; ,,',,;:lddoc;',,,,;,,,;;;;;:,          
-           dOxol:::lc::c:;,;:l;:;,;;:::: ;:clodlcccldl;,:;;:;;,::,,,;,          
-           xKOxdc:clc:clc:c;;ccol;,,;;:: cclodddolcco:,,:::cc;:;;;,,,'          
-           xK00kllccllcccc:;'';::;;,;::: cclol::cc:cc,,,;:l::::;,;,,,'          
-           oO000xc::lllclc:::,;,;,;;;;:: :ccoocccccl;,,,,,:;;;,,,,,,,'          
-           dOkOOOdccc:clc;;c:,,;c:;;:::: ::clooooodc,,,,,,::;,,,,,,,,'          
-           d0Ok00dcll:cl:;codol:loc:::cc cccclloool;,,,,,,;cc;,,,,;;,'          
-           l00OO0xlcollcldxxxxxdoool::cc llllc;;::;,,,,,,,,:c;,,,,;,,'          
-           :O00OkkccdddxkOOkkxxdxdddoccc llll:;:;;;,,,,,,,,,;,,,,,,;,'          
-           ;dkOxxdodkkOOOOOOOkxxdddddolc cc::::;;;;;,,,,,,,,,,,,,,;;,'          
-           :ccdddkkkkOOOOOOOOkxxxxdddddo c;':ddc:;;:;;;;,,,,,,,,,,;,;'          
-           ,::oxkkkkkOOOOOkkkOkkxxxkxxxx dl,;oxxc;:;;;;;;;;,,,,,;;;;;,          
-           ,coxkkkOOkkOOkkkkkkkkkxddxxxx xl;,lxxlc;,;;;;::;,,,,;;:;:;,          
+            .     ..     .                                                      
+                  ..                                                            
+                        .              . ...........                            
+            ...                       .. ............                           
+            ...                        . ..........                             
+            ...  .    ...                                                       
+            ...         .                        ..                             
+            ..      .                           ....                            
+           .....                             ...   ..                           
+           .....       .       .           ......   .                           
+           ......   .                       .                                   
+           ......    ..                     ..                                  
+           .......     .                    .......                             
+           ....... ..      ...   .           .....                              
+            ......  .   ............      ..                                    
+            ......  .................     ..                                    
+            ...........................                                         
+              ..........................     ..                                 
+              .......................... .   ...                                
+             ........................... .    ...                               

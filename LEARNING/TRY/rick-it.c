@@ -13,7 +13,11 @@ void display(int frame){
     printf("\033[H\033[J");
     char line[1000];
     while(fgets(line,sizeof(line),fp)){
-        printf("%s",line);
+        int start=0;
+        while(line[start]!='.' && line[start]!=' ' && line[start]!='\0'){
+            start++;
+        }
+        printf("%s",&line[start]);
     }
     fclose(fp);
 }

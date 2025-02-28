@@ -4,3 +4,8 @@
 - chmod -x script.sh 
 - bash script.sh
 ```
+---
+### Easy rick roll
+```
+- curl ascii.live/rick
+```
