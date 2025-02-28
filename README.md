@@ -6,7 +6,7 @@ The prank works by misleading someone into clicking a disguised link that unexpe
 ## PURPOSE
 
 - To refresh `C` file handling.©️
-- How to make a clear terminal with `c`.
+- How to clear terminal with `c`.
 - To learn new `bash` and revise commands.
 -  And ofcourse for fun!😁
   
