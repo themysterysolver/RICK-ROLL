@@ -8,4 +8,5 @@
 ### Easy rick roll
 ```
 - curl ascii.live/rick
+- curl ascii.live/rick > rickroll.txt
 ```
